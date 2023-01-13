@@ -2,7 +2,7 @@
 
 <style>
     #img1 {height:30px;weight:30px;object-fit: cover;}
-    div {font-size:15px}
+    div {font-size:30px; font:bold}
 </style>
 
 ![](https://img.shields.io/badge/python-blue)
