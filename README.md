@@ -29,7 +29,7 @@ SSAFY 9기 (01.04.2023 ~)
 ### 2023
 SSAFY 9기 공통프로젝트 구미 1등 수상 🥇 <br>
 SSAFY 9기 특화프로젝트 구미 2등 수상 🥇 <br>
-SSAFY 9기 자율프로젝트 구미 2등 수상 🥇
+SSAFY 9기 자율프로젝트 구미 1등 수상 🥇
 
 
 <div style="display:flex; flex-wrap:wrap;">
